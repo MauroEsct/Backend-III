@@ -43,3 +43,13 @@ Para correr la suite de pruebas funcionales (asegúrate de tener MongoDB corrien
 \`\`\`bash
 npm test
 \`\`\`
+
+## 🐳 Imagen en Docker Hub
+
+La imagen de este proyecto se encuentra alojada públicamente en Docker Hub. 
+Puedes acceder a ella mediante el siguiente enlace:
+[https://hub.docker.com/r/mauroesct/app-backend-iii](https://hub.docker.com/r/mauroesct/app-backend-iii)
+
+O descargarla directamente con el comando:
+```bash
+docker pull mauroesct/app-backend-iii:1.0.0
